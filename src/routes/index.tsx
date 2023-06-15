@@ -8,7 +8,7 @@ export default function Home() {
       <h1>歡迎來到祕密花園!</h1>
       <Counter />
       <p>
-        來找尋秘密吧!
+        來探索未知的秘密吧!
       </p>
     </main>
   );
