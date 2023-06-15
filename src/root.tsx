@@ -25,8 +25,7 @@ export default function Root() {
       <Body>
         <Suspense>
           <ErrorBoundary>
-            <A href="/">庭院</A>
-            
+
             <Routes>
               <FileRoutes />
             </Routes>
