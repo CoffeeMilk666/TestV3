@@ -6,6 +6,7 @@ export default function Counter() {
   return (
     <button class="increment" onClick={() => setCount(count() + 1)}>
       點擊: {count()}
+      count() = 10;
     </button>
   );
 }
